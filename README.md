@@ -2,6 +2,8 @@
 
 An Excel-based customer churn analysis examining **6,000+ telecom customer records** to identify churn patterns, high-risk customer segments, and potential retention priorities.
 
+<img width="875" height="518" alt="dashboard" src="https://github.com/user-attachments/assets/c999908f-3afe-4bce-b6b0-22af47f8e3a7" />
+
 ## Project Overview
 
 Customer churn can significantly impact revenue and long-term customer value. This analysis uses Excel to explore customer demographics, geography, consumption patterns, competitor activity, and service offers to identify factors associated with customer churn.
